@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rumaisa10
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning React and NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sultanarumaisa12@gmail.com
 
